@@ -5,7 +5,7 @@
  
  <target name="war" >
   <!-- <war destfile="dist/asms-web.war" webxml="src/main/webapp/WEB-INF/web.xml">-->
-   <war destfile="K:/apache-tomcat-9.0.0.M21/apache-tomcat-9.0.0.M21/webapps/asms-web.war" webxml="src/main/webapp/WEB-INF/web.xml">
+   <war destfile="asms-web.war" webxml="src/main/webapp/WEB-INF/web.xml">
    <fileset dir="src/main/webapp"/>
    
   </war>
